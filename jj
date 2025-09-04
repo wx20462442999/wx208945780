@@ -1,1 +1,234 @@
-c3NyOi8vWldSMVlXeHNMbUoxZW5wc2FXNWxMbTl5WnpvMU5qQTZZWFYwYUY5aFpYTXhNamhmYldRMU9tTm9ZV05vWVRJd0xXbGxkR1k2Y0d4aGFXNDZZbGRLYzFsWE5YSk5XRUoyWTI1Ukx6OXlaVzFoY210elBWY3RaWEp5TFZkUWJ5MVhhMnBsWlZWeFJqQm5OVXd0UlRVM01sZzFjR0YyV1ZOQ1UxWkJKbkJ5YjNSdmNHRnlZVzA5Sm05aVpuTndZWEpoYlQwCnNzcjovL01tTnVjbVZzWVhreUxtbHVhWFJqYkc5MVpDNXdjbTg2TlRZd09tRjFkR2hmWVdWek1USTRYMjFrTlRwamFHRmphR0V5TUMxcFpYUm1PbkJzWVdsdU9tSlhTbk5aVnpWeVRWaENkbU51VVM4X2NtVnRZWEpyY3oxWExXVnljaTFYVUc4dFYydHFaV1ZWY1VZd1oxY3dUbFZNTUU1T1dGTkNTVk14VVdkUlp5WndjbTkwYjNCaGNtRnRQU1p2WW1aemNHRnlZVzA5CnNzcjovL1kyNW9hMkZzYkM1a1pXSjFaMlY0TG5oNWVqbzFOakU2WVhWMGFGOWhaWE14TWpoZmJXUTFPbU5vWVdOb1lUSXdMV2xsZEdZNmNHeGhhVzQ2WWxkS2MxbFhOWEpOV0VKMlkyNVJMejl5WlcxaGNtdHpQVmN0WlhKeUxWZFFieTFYYTJwbFpWVnhSakJuVnpCT1ZVd3dUazVZVTBKSlV6RlJaMUpCSm5CeWIzUnZjR0Z5WVcwOUptOWlabk53WVhKaGJUMApzc3I6Ly9NbU51Y21Wc1lYa3lMbWx1YVhSamJHOTFaQzV3Y204Nk5UWXhPbUYxZEdoZllXVnpNVEk0WDIxa05UcGphR0ZqYUdFeU1DMXBaWFJtT25Cc1lXbHVPbUpYU25OWlZ6VnlUVmhDZG1OdVVTOF9jbVZ0WVhKcmN6MVhMV1Z5Y2kxWFVHOHRWMnRxWldWVmNVWXdaMWN3VGxWTU1FNU9XRk5DU1ZNeFVXZFNVU1p3Y205MGIzQmhjbUZ0UFNadlltWnpjR0Z5WVcwOQpzc3I6Ly9hVzVzWVhsbGNqY3VjM1JoYm1SMWNteHpMbU52T2pVMk1EcGhkWFJvWDJGbGN6RXlPRjl0WkRVNlkyaGhZMmhoTWpBdGFXVjBaanB3YkdGcGJqcGlWMHB6V1ZjMWNrMVlRblpqYmxFdlAzSmxiV0Z5YTNNOVZ5MWxjbkl0VjFCdkxWZHJhbVZsVlhGR01HZFhNRTVWVERCT1RsaFRRa2xUTVZGblVtY21jSEp2ZEc5d1lYSmhiVDBtYjJKbWMzQmhjbUZ0UFEKc3NyOi8vTVdOdWNtVnNZWGt1YVc1cGRHTnNiM1ZrTG5CeWJ6bzFOakk2WVhWMGFGOWhaWE14TWpoZmJXUTFPbU5vWVdOb1lUSXdMV2xsZEdZNmNHeGhhVzQ2WWxkS2MxbFhOWEpOV0VKMlkyNVJMejl5WlcxaGNtdHpQVmN0WlhKeUxWZFFieTFYYTJwbFpWVnhSakJuVnpCT1ZVd3dUazVZVTBKSlV6RlJaMU5CSm5CeWIzUnZjR0Z5WVcwOUptOWlabk53WVhKaGJUMApzc3I6Ly9hVzVzWVhsbGNqY3VjM1JoYm1SMWNteHpMbU52T2pVMk1qcGhkWFJvWDJGbGN6RXlPRjl0WkRVNlkyaGhZMmhoTWpBdGFXVjBaanB3YkdGcGJqcGlWMHB6V1ZjMWNrMVlRblpqYmxFdlAzSmxiV0Z5YTNNOVZ5MWxjbkl0VjFCdkxWZHJhbVZsVlhGR01HZFhNRTVWVERCT1RsaFRRa2xUTVZGblUxRW1jSEp2ZEc5d1lYSmhiVDBtYjJKbWMzQmhjbUZ0UFEKc3NyOi8vWTIxc1lYbGxjall1YzNSaGJtUjFjbXh6TG1Odk9qVTJNRHBoZFhSb1gyRmxjekV5T0Y5dFpEVTZZMmhoWTJoaE1qQXRhV1YwWmpwd2JHRnBianBpVjBweldWYzFjazFZUW5aamJsRXZQM0psYldGeWEzTTlWeTFsY25JdFYxQnZMVmRyYW1WbFZYRkdNR2RYTUU1VlREQk9UbGhUUWtsVE1WRm5VMmNtY0hKdmRHOXdZWEpoYlQwbWIySm1jM0JoY21GdFBRCnNzcjovL00yeGhlV1Z5TURNdWFXNXBkR05zYjNWa0xuQnliem8xTmpBNllYVjBhRjloWlhNeE1qaGZiV1ExT21Ob1lXTm9ZVEl3TFdsbGRHWTZjR3hoYVc0NllsZEtjMWxYTlhKTldFSjJZMjVSTHo5eVpXMWhjbXR6UFZjdFpYSnlMVmRRYnkxWGEycGxaVlZ4UmpCblZ6Qk9WVXd3VGs1WVUwSkpVekZSWjFOM0puQnliM1J2Y0dGeVlXMDlKbTlpWm5Od1lYSmhiVDAKc3NyOi8vTTJ4aGVXVnlNRE11YVc1cGRHTnNiM1ZrTG5CeWJ6bzFOakU2WVhWMGFGOWhaWE14TWpoZmJXUTFPbU5vWVdOb1lUSXdMV2xsZEdZNmNHeGhhVzQ2WWxkS2MxbFhOWEpOV0VKMlkyNVJMejl5WlcxaGNtdHpQVmN0WlhKeUxWZFFieTFYYTJwbFpWVnhSakJuVnpCT1ZVd3dUazVZVTBKSlV6RlJaMVJCSm5CeWIzUnZjR0Z5WVcwOUptOWlabk53WVhKaGJUMApzc3I6Ly9hVzVwZEdWemREQTRMbWx1YVhSamJHOTFaQzV3Y204Nk5UWXhPbUYxZEdoZllXVnpNVEk0WDIxa05UcGphR0ZqYUdFeU1DMXBaWFJtT25Cc1lXbHVPbUpYU25OWlZ6VnlUVmhDZG1OdVVTOF9jbVZ0WVhKcmN6MVhMV1Z5Y2kxWFVHOHRWMnRxWldWVmNVWXdaMWN3VGxWTU1FNU9XRk5DU1ZNeFVXZFVVU1p3Y205MGIzQmhjbUZ0UFNadlltWnpjR0Z5WVcwOQpzc3I6Ly9iR0Y1WlhKamJUQTFMbWx1YVhSamJHOTFaQzV3Y204Nk5UWXdPbUYxZEdoZllXVnpNVEk0WDIxa05UcGphR0ZqYUdFeU1DMXBaWFJtT25Cc1lXbHVPbUpYU25OWlZ6VnlUVmhDZG1OdVVTOF9jbVZ0WVhKcmN6MVhMV1Z5Y2kxWFVHOHRWMnRxWldWVmNVWXdaMWN3VGxWTU1FNU9XRk5DU1ZNd1NrOUpSVVVtY0hKdmRHOXdZWEpoYlQwbWIySm1jM0JoY21GdFBRCnNzcjovL1kyMXNZWGxsY2pZdWMzUmhibVIxY214ekxtTnZPalUyTVRwaGRYUm9YMkZsY3pFeU9GOXRaRFU2WTJoaFkyaGhNakF0YVdWMFpqcHdiR0ZwYmpwaVYwcHpXVmMxY2sxWVFuWmpibEV2UDNKbGJXRnlhM005VnkxbGNuSXRWMUJ2TFZkcmFtVmxWWEZHTUdkWE1FNVZUREJPVGxoVFFrbFRNRXBQU1VWTkpuQnliM1J2Y0dGeVlXMDlKbTlpWm5Od1lYSmhiVDAKc3NyOi8vYVc1cGRHVnpkREE0TG1sdWFYUmpiRzkxWkM1d2NtODZOVFl5T21GMWRHaGZZV1Z6TVRJNFgyMWtOVHBqYUdGamFHRXlNQzFwWlhSbU9uQnNZV2x1T21KWFNuTlpWelZ5VFZoQ2RtTnVVUzhfY21WdFlYSnJjejFYTFdWeWNpMVhVRzh0VjJ0cVpXVlZjVVl3WjFjd1RsVk1NRTVPV0ZOQ1NWTXdTazlKUlZFbWNISnZkRzl3WVhKaGJUMG1iMkptYzNCaGNtRnRQUQpzc3I6Ly9ZMjUwZDJ4aGVXVnlNUzV6ZEdGdVpIVnliQzU0ZVhvNk5UWXdPbUYxZEdoZllXVnpNVEk0WDIxa05UcGphR0ZqYUdFeU1DMXBaWFJtT25Cc1lXbHVPbUpYU25OWlZ6VnlUVmhDZG1OdVVTOF9jbVZ0WVhKcmN6MVhMV1Z5Y2kxWFVHOHRWMnRxWldWVmNVWXdaelZaTFhjMWNtMHRTVVZGSm5CeWIzUnZjR0Z5WVcwOUptOWlabk53WVhKaGJUMApzc3I6Ly9ZMjUwZDJ4aGVXVnlNUzV6ZEdGdVpIVnliQzU0ZVhvNk5UWXhPbUYxZEdoZllXVnpNVEk0WDIxa05UcGphR0ZqYUdFeU1DMXBaWFJtT25Cc1lXbHVPbUpYU25OWlZ6VnlUVmhDZG1OdVVTOF9jbVZ0WVhKcmN6MVhMV1Z5Y2kxWFVHOHRWMnRxWldWVmNVWXdaelZaTFhjMWNtMHRTVVZKSm5CeWIzUnZjR0Z5WVcwOUptOWlabk53WVhKaGJUMApzc3I6Ly9ZMjUwZDJ4aGVXVnlNUzV6ZEdGdVpIVnliQzU0ZVhvNk5UWXlPbUYxZEdoZllXVnpNVEk0WDIxa05UcGphR0ZqYUdFeU1DMXBaWFJtT25Cc1lXbHVPbUpYU25OWlZ6VnlUVmhDZG1OdVVTOF9jbVZ0WVhKcmN6MVhMV1Z5Y2kxWFVHOHRWMnRxWldWVmNVWXdaelZaTFhjMWNtMHRTVVZOSm5CeWIzUnZjR0Z5WVcwOUptOWlabk53WVhKaGJUMApzc3I6Ly9ZMjUwZDJ4aGVXVnlNUzV6ZEdGdVpIVnliQzU0ZVhvNk5UWXpPbUYxZEdoZllXVnpNVEk0WDIxa05UcGphR0ZqYUdFeU1DMXBaWFJtT25Cc1lXbHVPbUpYU25OWlZ6VnlUVmhDZG1OdVVTOF9jbVZ0WVhKcmN6MVhMV1Z5Y2kxWFVHOHRWMnRxWldWVmNVWXdaelZaTFhjMWNtMHRTVVZSSm5CeWIzUnZjR0Z5WVcwOUptOWlabk53WVhKaGJUMApzc3I6Ly9ZMjUwZDJ4aGVXVnlNUzV6ZEdGdVpIVnliQzU0ZVhvNk5UWXpPbUYxZEdoZllXVnpNVEk0WDIxa05UcGphR0ZqYUdFeU1DMXBaWFJtT25Cc1lXbHVPbUpYU25OWlZ6VnlUVmhDZG1OdVVTOF9jbVZ0WVhKcmN6MVhMV1Z5Y2kxWFVHOHRWMnRxWldWVmNVWXdaelZaTFhjMWNtMHRTVVZSSm5CeWIzUnZjR0Z5WVcwOUptOWlabk53WVhKaGJUMApzc3I6Ly9ZMjUwZDJ4aGVXVnlNUzV6ZEdGdVpIVnliQzU0ZVhvNk5UWTBPbUYxZEdoZllXVnpNVEk0WDIxa05UcGphR0ZqYUdFeU1DMXBaWFJtT25Cc1lXbHVPbUpYU25OWlZ6VnlUVmhDZG1OdVVTOF9jbVZ0WVhKcmN6MVhMV1Z5Y2kxWFVHOHRWMnRxWldWVmNVWXdaelZaTFhjMWNtMHRTVVZWSm5CeWIzUnZjR0Z5WVcwOUptOWlabk53WVhKaGJUMApzc3I6Ly9ZMjUwZDJ4aGVXVnlNUzV6ZEdGdVpIVnliQzU0ZVhvNk5UWTFPbUYxZEdoZllXVnpNVEk0WDIxa05UcGphR0ZqYUdFeU1DMXBaWFJtT25Cc1lXbHVPbUpYU25OWlZ6VnlUVmhDZG1OdVVTOF9jbVZ0WVhKcmN6MVhMV1Z5Y2kxWFVHOHRWMnRxWldWVmNVWXdaelZaTFhjMWNtMHRTVVZaSm5CeWIzUnZjR0Z5WVcwOUptOWlabk53WVhKaGJUMA==
+#我自己在网上搜集的配置，自己用的
+##图标备用📮✉️📪📬💫💬💥🔨🥼🚫🔰🙈🍎🎬📺🎱🍐🐝🦁💡🌵🐯🎸💻📽🌏🕹📡🦑🌟🐷🦒🐳🚦📵🎧💊🔓🚦🚥🐼⛔️🈲🌐🎯🖲️🐦🔞🎵📱🚀💳♻️🙈🍱🔂📦🔀⏱
+
+
+
+
+# 🟢>>>>>>>>>>>节点订阅<<<<<<<<<<<<<<<🟢
+[Remote Proxy]
+# 示例:
+# 订阅1 = https://sub.store/download/SUB1,udp=false,fast-open=false,vmess-aead=true,enabled=true
+# 订阅2 = https://sub.store/download/SUB2,udp=false,fast-open=false,vmess-aead=true,enabled=true
+# 订阅3 = https://sub.store/download/SUB3,udp=true,fast-open=true,vmess-aead=true,enabled=true
+
+
+
+
+# 🟢>>>>>>>>>>>本地脚本<<<<<<<<<<<<<<<🟢
+[Script]
+
+
+
+
+
+
+
+
+
+
+
+# 🟢>>>>>>>>>>>本地规则<<<<<<<<<<<<<<<🟢
+[Rule]
+DOMAIN,p14-buy.itunes.apple.com,海外服务
+GEOIP,CN,DIRECT
+FINAL,海外服务
+
+
+# 🟢>>>>>>>>>>>功能策略<<<<<<<<<<<<<<<🟢
+[Proxy Group]
+海外服务 = select,全球节点,香港节点,台湾节点,美国节点,日本节点,狮城节点,url = http://cp.cloudflare.com/generate_204,img-url = https://github.com/Moli-X/Tool/raw/X/Icon/Flag/Pixel144/Macao.png
+全球节点 = load-balance,全部,url = http://www.gstatic.com/generate_204,interval = 600,max-timeout = 3000,algorithm = pcc,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/European_Union.png
+香港节点 = select,香港,url = http://www.gstatic.com/generate_204,img-url = https://github.com/Moli-X/Tool/raw/X/Icon/Flag/Pixel144/Hong_Kong.png
+台湾节点 = select,台湾,url = http://www.gstatic.com/generate_204,img-url = https://github.com/Moli-X/Tool/raw/X/Icon/Flag/Pixel144/Taiwan.png
+美国节点 = select,美国,url = http://www.gstatic.com/generate_204,img-url = https://github.com/Moli-X/Tool/raw/X/Icon/Flag/Pixel144/United_States.png
+日本节点 = select,日本,url = http://www.gstatic.com/generate_204,img-url = https://github.com/Moli-X/Tool/raw/X/Icon/Flag/Pixel144/Japan.png
+狮城节点 = select,狮城,url = http://www.gstatic.com/generate_204,img-url = https://github.com/Moli-X/Tool/raw/X/Icon/Flag/Pixel144/Singapore.png
+屏蔽IOS更新 = select,DIRECT,REJECT,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Apple_Update.png
+
+
+# 🟢>>>>>>>>>>>规则分流<<<<<<<<<<<<<<<🟢
+[Remote Rule]
+
+https://github.com/Moli-X/Tool/raw/X/Loon/Rules/TeamViewer.list, policy=DIRECT, tag=远程控制, enabled=true
+https://github.com/Moli-X/Tool/raw/X/Loon/Rules/AppStore.list, policy=DIRECT, tag=苹果商店, enabled=true
+https://github.com/Moli-X/Tool/raw/X/Loon/Rules/AppleID.list, policy=DIRECT, tag=苹果账号, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/SystemOTA/SystemOTA.list, policy=屏蔽IOS更新, tag=🈲IOS更新, enabled=true
+https://github.com/Moli-X/Tool/raw/X/Loon/Rules/Apple.list, policy=DIRECT, tag=苹果分流, enabled=true
+https://github.com/Moli-X/Tool/raw/X/Loon/Rules/DouYin.list, policy=DIRECT, tag=国内抖音, enabled=true
+https://github.com/Moli-X/Tool/raw/X/Loon/Rules/WeChat.list, policy=DIRECT, tag=微信分流, enabled=true
+https://github.com/Moli-X/Tool/raw/X/Loon/Rules/Lan.list, policy=DIRECT, tag=本地分流, enabled=true
+https://github.com/Moli-X/Tool/raw/X/Loon/Rules/GitLab.list, policy=DIRECT, tag=储存仓库, enabled=true
+https://github.com/Moli-X/Tool/raw/X/Loon/Rules/ChinaASN.list, policy=DIRECT, tag=ASN直连, enabled=true
+https://github.com/Moli-X/Tool/raw/X/Loon/Rules/AppleProxy.list, policy=海外服务, tag=苹果代理, enabled=true
+https://github.com/Moli-X/Tool/raw/X/Loon/Rules/TikTok.list, policy=台湾节点, tag=海外抖音, enabled=true
+https://github.com/Moli-X/Tool/raw/X/Loon/Rules/Google.list, policy=美国节点, tag=谷歌分流, enabled=true
+
+https://github.com/Moli-X/Tool/raw/X/Loon/Rules/GitHub.list, policy=香港节点, tag=仓库分流, enabled=true
+https://github.com/Moli-X/Tool/raw/X/Loon/Rules/Spotify.list, policy=美国节点, tag=Spotify, enabled=true
+https://github.com/Moli-X/Tool/raw/X/Loon/Rules/OpenAI.list, policy=日本节点, tag=人工智能, enabled=true
+https://github.com/Moli-X/Tool/raw/X/Loon/Rules/YouTube.list, policy=香港节点, tag=油管视频, enabled=true
+https://github.com/Moli-X/Tool/raw/X/Loon/Rules/Notion.list, policy=海外服务, tag=国外笔记, enabled=true
+https://github.com/Moli-X/Tool/raw/X/Loon/Rules/Telegram.list, policy=日本节点, tag=电报消息, enabled=true
+https://github.com/Moli-X/Tool/raw/X/Loon/Rules/Twitter.list, policy=海外服务, tag=推特分流, enabled=true
+https://github.com/Moli-X/Tool/raw/X/Loon/Rules/Facebook.list, policy=海外服务, tag=脸书分流, enabled=true
+https://github.com/Moli-X/Tool/raw/X/Loon/Rules/Bing.list, policy=美国节点, tag=必应搜索, enabled=true
+https://github.com/Moli-X/Tool/raw/X/Loon/Rules/TestFlight.list, policy=海外服务, tag=TestFlight, enabled=true
+
+https://github.com/Moli-X/Tool/raw/X/Loon/Rules/HTTPDNS.Block.list, policy=REJECT, tag=阻止常见DNS, enabled=true
+https://github.com/Moli-X/Tool/raw/X/Loon/Rules/Reject.list, policy=REJECT, tag=广告列表, enabled=true
+
+
+# 🟢>>>>>>>>>>>远程脚本<<<<<<<<<<<<<<<🟢
+[Remote Script]
+https://raw.githubusercontent.com/Moli-X/Resources/main/Loon/Task.conf, tag=脚本合集, enabled=true
+
+
+# 🟢>>>>>>>>>>>插件模块<<<<<<<<<<<<<<<🟢
+[Plugin]
+https://raw.githubusercontent.com/mymoonyue/Loon/master/Plugin/emby.plugin, tag=emby, enabled=true
+https://raw.githubusercontent.com/Script-Hub-Org/Script-Hub/main/modules/script-hub.loon.plugin, tag=script-hub, enabled=true
+https://raw.githubusercontent.com/chxm1023/Script_X/main/Collections.plugin, tag=解锁合集, enabled=true
+https://kelee.one/Tool/Loon/Plugin/FleaMarket_remove_ads.plugin, enabled=true
+https://raw.githubusercontent.com/fmz200/wool_scripts/main/Loon/plugin/blockAds.plugin, enabled=true
+https://raw.githubusercontent.com/mist-whisper/Loon/master/Plugins/Soul_remove_ads.plugin, policy=香港节点, enabled=true
+https://raw.githubusercontent.com/mist-whisper/Loon/master/Plugins/DailyBonus.plugin, enabled=true
+https://raw.githubusercontent.com/mw418/Loon/main/plugin/jd_price.plugin, enabled=true
+https://github.com/Moli-X/Tool/raw/X/Loon/Plugin/Kelee/Umetrip_remove_ads.plugin, enabled=true
+https://github.com/Moli-X/Tool/raw/X/Loon/Plugin/Kelee/LuckinCoffee_remove_ads.plugin, enabled=true
+https://raw.githubusercontent.com/Moli-X/Tool/X/Loon/Plugin/Kelee/JD_Price.plugin, tag=京东比价, enabled=true
+https://raw.githubusercontent.com/LovedGM/Loon/refs/heads/main/mdsq.plugin, enabled=true
+https://github.com/Moli-X/Resources/raw/main/Loon/Ydm.plugin, tag=Xvido, enabled=false
+https://raw.githubusercontent.com/Yu9191/Rewrite/refs/heads/main/ydm.plugin, tag=AV, enabled=true
+https://github.com/Moli-X/Tool/raw/X/Loon/Plugin/Kelee/Cainiao_remove_ads.plugin, tag=菜鸟裹裹, enabled=true
+https://raw.githubusercontent.com/Moli-X/Resources/refs/heads/main/Loon/91Porn_ads.plugin, tag=91Porn, enabled=true
+https://raw.githubusercontent.com/ifflagged/Darwin/d4952a372ce377f20213c93f2288938cffc971f6/Modules/Loon/Yuheng0101/heiliao.plugin, tag=黑料不打烊, enabled=true
+https://github.com/Moli-X/Tool/raw/X/Loon/Plugin/Kelee/KebidaDushu_remove_ads.plugin, enabled=true
+https://github.com/Moli-X/Tool/raw/X/Loon/Plugin/Kelee/Bilibili_remove_ads.plugin, enabled=true
+https://github.com/ChinaTelecomOperators/ChinaMobile/releases/download/Prerelease-Alpha/10086.loon.plugin, tag=中国移动, enabled=true
+https://github.com/Moli-X/Tool/raw/X/Loon/Plugin/Kelee/Weibo_remove_ads.plugin, enabled=true
+https://github.com/Moli-X/Tool/raw/X/Loon/Plugin/Kelee/Amap_remove_ads.plugin, enabled=true
+https://github.com/Moli-X/Tool/raw/X/Loon/Plugin/Kelee/NeteaseCloudMusic_remove_ads.plugin, enabled=true
+https://github.com/Moli-X/Tool/raw/X/Loon/Plugin/Kelee/RedPaper_remove_ads.plugin, enabled=true
+https://github.com/Moli-X/Tool/raw/X/Loon/Plugin/Kelee/AliYunDrive_remove_ads.plugin, enabled=true
+https://github.com/Moli-X/Tool/raw/X/Loon/Plugin/Kelee/SF-Express_remove_ads.plugin, enabled=true
+https://github.com/Moli-X/Tool/raw/X/Loon/Plugin/Kelee/DiDi_remove_ads.plugin, enabled=true
+https://github.com/Moli-X/Tool/raw/X/Loon/Plugin/Kelee/Taobao_remove_ads.plugin, enabled=true
+https://github.com/Moli-X/Tool/raw/X/Loon/Plugin/Kelee/JD_remove_ads.plugin, enabled=false
+https://github.com/Moli-X/Tool/raw/X/Loon/Plugin/Kelee/Mango_Viedo_remove_ads.plugin, enabled=true
+https://github.com/Moli-X/Tool/raw/X/Loon/Plugin/Kelee/iQiYi_Video_remove_ads.plugin, enabled=true
+https://github.com/Moli-X/Tool/raw/X/Loon/Plugin/Kelee/Tencent_Video_remove_ads.plugin, enabled=false
+https://github.com/Moli-X/Tool/raw/X/Loon/Plugin/Kelee/CaixinMedia_remove_ads.plugin, enabled=true
+https://github.com/Moli-X/Tool/raw/X/Loon/Plugin/Kelee/BaiduNetDisk_remove_ads.plugin, enabled=true
+https://github.com/Moli-X/Tool/raw/X/Loon/Plugin/Kelee/BaiduSearchWebpage_remove_ads.plugin, enabled=true
+https://github.com/Moli-X/Tool/raw/X/Loon/Plugin/Kelee/Keep_remove_ads.plugin, enabled=true
+https://github.com/Moli-X/Tool/raw/X/Loon/Plugin/Kelee/PinDuoDuo_remove_ads.plugin, enabled=true
+https://github.com/Moli-X/Tool/raw/X/Loon/Plugin/Kelee/Node_detection_tool.plugin, enabled=true
+https://github.com/Moli-X/Tool/raw/X/Loon/Plugin/Kelee/YouTube_remove_ads.plugin, enabled=true
+https://github.com/Moli-X/Tool/raw/X/Loon/Plugin/Kelee/DualSubs.YouTube.plugin, enabled=true
+https://github.com/Moli-X/Tool/raw/X/Loon/Plugin/Kelee/Spotify_remove_ads.plugin, enabled=true
+https://github.com/Moli-X/Tool/raw/X/Loon/Plugin/Kelee/Spotify.plugin, tag=Spotify歌词, enabled=true
+https://github.com/Moli-X/Resources/raw/main/Loon/Mdtv.plugin, enabled=true
+https://github.com/Moli-X/Resources/raw/main/Loon/Fdds.plugin, tag=樊登读书, enabled=true
+https://github.com/Moli-X/Resources/raw/main/Loon/JianYing.plugin, tag=剪映, enabled=true
+https://github.com/Moli-X/Resources/raw/main/Loon/Grow.plugin, tag=Grow破解, enabled=true
+https://github.com/Moli-X/Resources/raw/main/Loon/Mtxx.plugin, enabled=false
+https://github.com/Moli-X/Resources/raw/main/Loon/Baiducloud.plugin, tag=百度云加速, enabled=true
+https://github.com/Moli-X/Resources/raw/main/Loon/Bilibili/BilibiliEnhanced.plugin, tag=哔哩万象, enabled=false
+https://github.com/Moli-X/Tool/raw/X/Loon/Plugin/Kelee/QuickSearch.plugin, enabled=true
+https://github.com/Moli-X/Resources/raw/main/Sub-Store/SubStore.plugin, policy=香港节点, tag=节点订阅, enabled=true
+https://github.com/Moli-X/Resources/raw/main/Loon/Convert/Old/Rewrite_to_Loon.plugin, enabled=true
+https://github.com/Moli-X/Resources/raw/main/Loon/Collection.plugin, enabled=true
+https://github.com/Moli-X/Tool/raw/X/Loon/Plugin/Kelee/General.plugin, tag=配置增强, enabled=true
+https://github.com/Moli-X/Tool/raw/X/Loon/Plugin/Kelee/DNS.plugin, tag=DNS映射, enabled=true
+https://github.com/Moli-X/Tool/raw/X/Loon/Plugin/Kelee/Remove_ads_by_keli.plugin, enabled=true
+https://github.com/Moli-X/Tool/raw/X/Loon/Plugin/Kelee/BlockAdvertisers.plugin, enabled=true
+https://github.com/Moli-X/Tool/raw/X/Loon/Plugin/Kelee/HTTPDNS.Block.plugin, enabled=true
+https://github.com/Moli-X/Resources/raw/main/Loon/GetCookie.plugin, tag=获取Cookie, enabled=false
+
+
+# 🟢>>>>>>>>>>>基本设置<<<<<<<<<<<<<<<🟢
+[General]
+ip-mode = v4-only
+udp-fallback-mode = DIRECT
+doh3-server = h3://dns.alidns.com/dns-query,h3://223.6.6.6/dns-query,h3://223.5.5.5/dns-query
+doq-server = quic://dns.alidns.com:853,quic://223.6.6.6:853,quic://223.5.5.5:853
+doh-server = https://dns.alidns.com/dns-query,https://223.5.5.5/dns-query,https://223.6.6.6/dns-query,https://1.12.12.12/dns-query,https://120.53.53.53/dns-query,https://doh.pub/dns-query
+fast-switch = true
+sni-sniffing = true
+ipv6 = true
+skip-proxy = localhost,*.local,passenger.t3go.cn,e.crashlytics.com,captive.apple.com,app.yinxiang.com,injections.adguard.org,local.adguard.org,cable.auth.com,www.baidu.com,yunbusiness.ccb.com,10.0.0.0/8,100.64.0.0/10,127.0.0.1/32,169.254.0.0/16,172.16.0.0/12,192.168.0.0/16,224.0.0.0/4,240.0.0.0/4,::1/128,fc00::/7,fd00::/8,fe80::/10,ff00::/8,2001::/32,2001:db8::/32,2002::/16,::ffff:0:0:0:0/1,::ffff:128:0:0:0/1,teams.microsoft.com,deltaww.com.cn,book.yunzhan365.com
+bypass-tun = 10.0.0.0/8,100.64.0.0/10,127.0.0.0/8,169.254.0.0/16,172.16.0.0/12,192.0.0.0/24,192.0.2.0/24,192.88.99.0/24,192.168.0.0/16,198.18.0.0/15,198.51.100.0/24,203.0.113.0/24,224.0.0.0/4,255.255.255.255/32
+dns-server = system,119.29.29.29,223.5.5.5,223.6.6.6,2402:4e00::,2400:3200::1,180.184.1.1,180.184.2.2
+
+allow-udp-proxy = true
+allow-wifi-access = false
+wifi-access-http-port = 1234
+wifi-access-socks5-port = 1235
+real-ip = msftconnecttest.com,msftncsi.com,*.msftconnecttest.com,*.msftncsi.com,*.srv.nintendo.net,*.stun.playstation.net,xbox.*.microsoft.com,*.xboxlive.com,*.battlenet.com.cn,*.battlenet.com,*.blzstatic.cn,*.battle.net
+proxy-test-url = http://www.gstatic.com/generate_204
+internet-test-url = http://www.apple.com/generate_204
+test-timeout = 1
+interface-mode = auto
+switch-node-after-failure-times = 2
+resource-parser = https://github.com/sub-store-org/Sub-Store/releases/latest/download/sub-store-parser.loon.min.js
+geoip-url = https://github.com/Moli-X/Tool/raw/X/GeoIP/CN_Country.mmdb
+# 更全IP地址
+# https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb
+# 使用方法：https://github.com/Loyalsoldier/geoip
+ipasn-url = https://github.com/Moli-X/Tool/raw/X/GeoIP/GeoLite2-ASN.mmdb
+disconnect-on-policy-change = false
+# udp端口禁用
+disable-stun = true
+disable-udp-ports = 443
+
+
+# 🟢>>>>>>>>>>>映射功能<<<<<<<<<<<<<<<🟢
+[Host]
+*.taobao.com = server:223.5.5.5
+*.tmall.com = server:223.5.5.5
+*.jd.com = server:119.28.28.28
+*.qq.com = server:119.28.28.28
+*.tencent.com = server:119.28.28.28
+*.alicdn.com = server:223.5.5.5
+*.aliyun.com = server:223.5.5.5
+*.weixin.com = server:119.28.28.28
+*.163.com = server:119.29.29.29
+*.126.com = server:119.29.29.29
+*.126.net = server:119.29.29.29
+*.127.net = server:119.29.29.29
+*.netease.com = server:119.29.29.29
+*.mi.com = server:119.29.29.29
+*.xiaomi.com = server:119.29.29.29
+*.bilibili.com = server:119.29.29.29
+*testflight.apple.com = server:8.8.4.4
+mtalk.google.com = 108.177.125.188
+dl.google.com = server:119.29.29.29
+dl.l.google.com = server:119.29.29.29
+
+
+# 🟢>>>>>>>>>>>节点筛选<<<<<<<<<<<<<<<🟢
+[Remote Filter]
+全部 = NameRegex, FilterKey = "^(?!.*网易云)"
+香港 = NameRegex, FilterKey = "(?i)(港|HK|Hong)"
+台湾 = NameRegex, FilterKey = "(?i)(台|TW|Tai|中国)"
+日本 = NameRegex, FilterKey = "(?i)(日本|川日|东京|大阪|泉日|埼玉|沪日|深日|JP|Japan)"
+美国 = NameRegex, FilterKey = "(?i)(美|波特兰|达拉斯|俄勒冈|凤凰城|费利蒙|硅谷|拉斯维加斯|洛杉矶|圣何塞|圣克拉拉|西雅图|芝加哥|US|United States)"
+狮城 = NameRegex, FilterKey = "(?i)(新加坡|坡|狮城|SG|Singapore)"
+
+
+# 🟢>>>>>>>>>>>其他配置<<<<<<<<<<<<<<<🟢
+[Proxy]
+[Rewrite]
+
+[Remote Rewrite]
+
+
+# 🟢>>>>>>>>>>>证书MITM<<<<<<<<<<<<<<🟢
+[MITM]
+ca-p12 = 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
+ca-passphrase = 608EYXRU
+hostname = wxavip-up.ezrpro.cn,-*snssdk.com,-*amemv.com,hweb-mbf.huazhu.com,nicegram.cloud,*.amap.com,appss.linhongshi.com,api.revenuecat.com
+skip-server-cert-verify = true
+
+ca-p12 = 
+ca-passphrase = 
